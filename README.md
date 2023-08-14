@@ -1,4 +1,4 @@
-# Dim
+# Dim - [Deprecated! Latest one is https://github.com/DimSystems/DimBot/]
 #### This is a open source version of Dim, Including the Normal and Mini package, This GitHub repository only includes instructions into getting the bot up and running!
 
 ## Important Note:
